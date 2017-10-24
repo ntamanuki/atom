@@ -1,0 +1,13 @@
+Remote-FTP@0.8.9
+activate-power-mode@0.8.1
+color-picker@2.2.2
+editorconfig@1.4.1
+file-icons@1.7.19
+html-entities@0.4.0
+monokai@0.18.0
+pigments@0.34.0
+seti-syntax@1.0.1
+single-click-open@0.2.1
+trailing-spaces@0.3.2
+unity-ui@2.1.5
+

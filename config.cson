@@ -1,0 +1,32 @@
+"*":
+  "activate-power-mode":
+    particles:
+      size:
+        max: 3
+        min: 1
+      spawnCount: {}
+    screenShake:
+      enabled: false
+  "color-picker":
+    abbreviateValues: true
+  core:
+    closeEmptyWindows: false
+    destroyEmptyPanes: false
+    disabledPackages: [
+      "activate-power-mode"
+    ]
+    packagesWithKeymapsDisabled: [
+      "activate-power-mode"
+    ]
+  editor:
+    invisibles: {}
+    showIndentGuide: true
+    showInvisibles: true
+    tabType: "soft"
+  "exception-reporting":
+    userId: "c32a8686-a745-e2a8-8234-68b312bc9196"
+  "one-dark-ui": {}
+  "remote-edit": {}
+  "unity-ui": {}
+  welcome:
+    showOnStartup: false
